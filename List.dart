@@ -1,6 +1,6 @@
 void main(){
 
-  List<int> numberList = List(5);
+  List<int> numberList = List(5); //fixed value list
 
   numberList[0] = 55;
   numberList[1] = 65;
