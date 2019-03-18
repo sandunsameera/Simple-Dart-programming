@@ -10,7 +10,8 @@ void main(){
   numbersSist.add(4);
   numbersSist.add(6);
   numbersSist.add(8);
-  numbersSist.add(10);
+  numbersSist.add(10); //in Set duplicate values are ignored
+  numbersSist.add(10); //this line is ignored
 
 
   for(int element in numbersSist){
