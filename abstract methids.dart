@@ -5,7 +5,6 @@ void main(){
   var rectangle = Rectangle();
   rectangle.draw();
 
-
 }
 
 abstract class Shape{
