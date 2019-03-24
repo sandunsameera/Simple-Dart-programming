@@ -11,6 +11,7 @@ abstract class Shape{
   void draw();
 }
 
+//this is not abstract method
 
 class Rectangle{
   void draw(){
